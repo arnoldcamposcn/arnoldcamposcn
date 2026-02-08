@@ -47,6 +47,29 @@
   <!-- AWS -->
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="30" alt="aws" />
 </div>
+<div align="left">
+  <h4>🚀 Especializaciones Técnicas</h4>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
+    <!-- Pagos en tiempo real -->
+    <img src="https://img.shields.io/badge/Pagos_Tiempo_Real-✅_Implementados-00C853?style=for-the-badge&logo=cash-app&logoColor=white" height="30" alt="pagos realtime" />
+    
+    <!-- WebSockets -->
+    <img src="https://img.shields.io/badge/WebSockets-🔗_Comunicación_Real_Time-FF9800?style=for-the-badge&logo=socket.io&logoColor=white" height="30" alt="websockets" />
+    
+    <!-- Zustand -->
+    <img src="https://img.shields.io/badge/Zustand-⚡_State_Management-7B1FA2?style=for-the-badge&logo=react&logoColor=white" height="30" alt="zustand" />
+    
+    <!-- Axios -->
+    <img src="https://img.shields.io/badge/Axios-🌐_HTTP_Client-5C6BC0?style=for-the-badge&logo=axios&logoColor=white" height="30" alt="axios" />
+    
+    <!-- JWT -->
+    <img src="https://img.shields.io/badge/JWT-🔐_Auth_&_Authorization-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" height="30" alt="jwt" />
+    
+    <!-- OAuth -->
+    <img src="https://img.shields.io/badge/OAuth-👤_Autenticación_Externa-4285F4?style=for-the-badge&logo=google&logoColor=white" height="30" alt="oauth" />
+  </div>
+</div>
 
 ###
 <div align="left">
