@@ -85,7 +85,7 @@
     target="_blank"
     rel="noopener noreferrer"
   >
-    Ver documento
+    Demo de la aplicación web sin conexión
   </a>
 </p>
 </div>
