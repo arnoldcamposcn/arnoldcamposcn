@@ -1,16 +1,4 @@
 <h3 align="left">React Developer | Full-Cycle Frontend Specialist</h3>
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USERNAME&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TU_USERNAME&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="180" src="https://media.tenor.com/images/3c3b8e8b8e8b8e8b8e8b8e8b8e8b8e8b/tenor.gif"  />
-
-###
 
 <div align="left">
   <p>+3 años desarrollando aplicaciones React de alta calidad para web y mobile, con conocimientos en Angular para integración de microfrontends. Implemento soluciones aplicando Clean Architecture, principios SOLID y pensamiento crítico, priorizando UX, performance y SEO.</p>
