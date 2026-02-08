@@ -68,7 +68,18 @@
   </div>
 </div>
 
-
+<div align="left">
+  <h4>🌐 Experiencia en Aplicaciones Conectadas</h4>
+  
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+    <img src="https://img.shields.io/badge/Aplicaciones_Online-2196F3?style=flat-square&logo=internet-explorer&logoColor=white" height="28" alt="apps online" />
+    <img src="https://img.shields.io/badge/Manejo_Estados_Red-FF5722?style=flat-square&logo=connection&logoColor=white" height="28" alt="estados red" />
+    <img src="https://img.shields.io/badge/Sincronización_Tiempo_Real-9C27B0?style=flat-square&logo=sync&logoColor=white" height="28" alt="sync realtime" />
+    <img src="https://img.shields.io/badge/APIs_REST/GraphQL-E91E63?style=flat-square&logo=graphql&logoColor=white" height="28" alt="apis" />
+    <img src="https://img.shields.io/badge/Service_Workers-607D8B?style=flat-square&logo=worker&logoColor=white" height="28" alt="service workers" />
+    <img src="https://img.shields.io/badge/Cache_Inteligente-795548?style=flat-square&logo=cache&logoColor=white" height="28" alt="cache" />
+  </div>
+</div>
 
 
 ###
