@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm ...</h2>
+<h2 align="left">Arnold Campos</h2>
 <h3 align="left">React Developer | Full-Cycle Frontend Specialist</h3>
 
 ###
