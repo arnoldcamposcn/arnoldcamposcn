@@ -77,7 +77,7 @@
   </div>
   
   <p style="margin-top: 12px; line-height: 1.6;">
-    <strong>Desarrollo de aplicaciones Offline-First:</strong> Especializado en crear aplicaciones web que funcionan sin conexión a internet mediante Service Workers y estrategias de caché inteligente. Implemento arquitecturas que priorizan la disponibilidad offline, permitiendo que las aplicaciones se carguen desde caché local y funcionen completamente sin internet después de la primera visita. Ideal para páginas web estáticas, PWAs y aplicaciones del sector bancario que requieren alta disponibilidad.
+    <strong>Desarrollo de aplicaciones Offline-First:</strong> Especializado en crear aplicaciones web que funcionan sin conexión a internet mediante Service Workers y estrategias de caché inteligente. Implemento arquitecturas que priorizan la disponibilidad offline, permitiendo que las aplicaciones se carguen desde caché local y funcionen completamente sin internet después de la primera visita. Ideal para páginas web estáticas, PWAs.
   </p>
 </div>
 
