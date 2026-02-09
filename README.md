@@ -78,7 +78,7 @@
   
   <p style="margin-top: 12px; line-height: 1.6;">
     <strong>Desarrollo de aplicaciones Offline-First:</strong> Especializado en crear aplicaciones web que funcionan sin conexión a internet mediante Service Workers y estrategias de caché inteligente. Implemento arquitecturas que priorizan la disponibilidad offline, permitiendo que las aplicaciones se carguen desde caché local y funcionen completamente sin internet después de la primera visita. Ideal para páginas web estáticas, PWAs. <br>
-  <strong>🔹Esta estrategia es particularmente valiosa en plataformas de documentación y recursos educativos con alta concurrencia de usuarios. Facilita el acceso a la información en contextos de conectividad limitada, reduce el consumo de datos y mejora la experiencia de uso, contribuyendo a una mayor equidad en el acceso al aprendizaje.</strong>
+  <strong>🔹Este enfoque resulta especialmente adecuado para entornos donde múltiples usuarios acceden a plataformas de documentación o recursos digitales. Permite que personas con conectividad limitada consulten información sin un alto consumo de datos, mejorando de forma significativa la experiencia de usuario (UX) y fomentando un acceso más equitativo al conocimiento.</strong>
   </p>
   
 <p>
