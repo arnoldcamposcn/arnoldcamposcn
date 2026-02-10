@@ -36,6 +36,10 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="30" alt="react native" />
   <img width="8" />
   
+<!-- Apollo GraphQL -->
+  <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" height="30" alt="apollo graphql" />
+  <img width="8" />
+  
   <!-- Docker -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="30" alt="docker" />
   <img width="8" />
