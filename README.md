@@ -64,9 +64,9 @@
     <img src="https://img.shields.io/badge/WebSockets-FF9800?style=flat-square&logo=socket.io&logoColor=white" height="28" alt="websockets" />
     <img src="https://img.shields.io/badge/Zustand-7B1FA2?style=flat-square&logo=react&logoColor=white" height="28" alt="zustand" />
     <img src="https://img.shields.io/badge/Axios-5C6BC0?style=flat-square&logo=axios&logoColor=white" height="28" alt="axios" />
-    <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" height="30" alt="apollo graphql" />
     <img src="https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=json-web-tokens&logoColor=white" height="28" alt="jwt" />
     <img src="https://img.shields.io/badge/OAuth-4285F4?style=flat-square&logo=google&logoColor=white" height="28" alt="oauth" />
+    <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" height="28" alt="apollo graphql" />
   </div>
 </div>
 
