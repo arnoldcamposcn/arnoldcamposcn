@@ -101,13 +101,13 @@
   </a>
 </p>
 
-p>
+<p>
   <a
     href="https://youtu.be/mPosWH6GaU8"
     target="_blank"
     rel="noopener noreferrer"
   >
-    🌐 Implementación de WebSockets
+    🌐 Mi Portafolio
   </a>
 </p>
 </div>
