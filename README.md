@@ -107,7 +107,7 @@
     target="_blank"
     rel="noopener noreferrer"
   >
-    🌐 Mi Portafolio
+    🌐 Websockets
   </a>
 </p>
 </div>
