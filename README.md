@@ -100,6 +100,16 @@
     🌐 Mi Portafolio
   </a>
 </p>
+
+p>
+  <a
+    href="https://youtu.be/mPosWH6GaU8"
+    target="_blank"
+    rel="noopener noreferrer"
+  >
+    🌐Implementacion WEBSOCKETS
+  </a>
+</p>
 </div>
 
 
