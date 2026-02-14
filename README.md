@@ -98,7 +98,7 @@
     target="_blank"
     rel="noopener noreferrer"
   >
-   Mi Portafolio
+    🌐 Mi Portafolio
   </a>
 </p>
 </div>
