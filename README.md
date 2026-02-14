@@ -107,7 +107,7 @@ p>
     target="_blank"
     rel="noopener noreferrer"
   >
-    🌐Implementacion WEBSOCKETS
+    🌐 Implementación de WebSockets
   </a>
 </p>
 </div>
