@@ -1,9 +1,17 @@
 <h3 align="left">React Developer | Full-Cycle Frontend Specialist</h3>
 
 <div align="left">
-  <p>+4 años desarrollando aplicaciones React de alta calidad para web y mobile, con conocimientos en Angular para integración de microfrontends. Implemento soluciones aplicando Clean Architecture, principios SOLID y pensamiento crítico, priorizando UX, performance y SEO.</p>
-  <p>Mi experiencia abarca el ciclo completo del producto: colaboro estrechamente con equipos de UX/UI, desarrollo frontend robusto y mantengo comunicación efectiva con backend para optimizar el renderizado y la experiencia de usuario.</p>
-  
+
+  <p>
+    +4 años de experiencia como Desarrollador de Software, especializado en la construcción de aplicaciones escalables y mantenibles. 
+    Experiencia trabajando con arquitecturas Clean Architecture, Hexagonal y MVVM, aplicando principios SOLID, patrones de diseño 
+    como Singleton, Observer y Strategy, además de arquitecturas basadas en microservicios y microfrontends.
+    <br/><br/>
+    Desarrollo de soluciones utilizando servicios cloud como Azure y AWS, aplicando buenas prácticas de ingeniería de software como 
+    DRY, KISS, código limpio y diseño orientado a la calidad, rendimiento y mantenibilidad.
+  </p>
+
+</div>
   <br />
   
   <div>
