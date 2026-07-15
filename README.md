@@ -1,4 +1,4 @@
-<h3 align="left">React Developer | Full-Cycle Frontend Specialist</h3>
+<h3 align="left">Software Engineer</h3>
 
 <div align="left">
 
